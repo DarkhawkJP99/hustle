@@ -1,7 +1,7 @@
 # Hustle. – AI-Powered Lead Generation Engine 🚀
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/hustle)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DarkhawkJP99/hustle)
 
 Hustle. automates Twitter lead discovery, GPT-based scoring, Stripe payments, and branded fulfillment emails.
 
